@@ -1,0 +1,12 @@
+{
+  "appId": "com.example.app",
+  "appName": "code-reproduction",
+  "bundledWebRuntime": true,
+  "linuxAndroidStudioPath": "ANDROID_STUDIO_PATH",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
